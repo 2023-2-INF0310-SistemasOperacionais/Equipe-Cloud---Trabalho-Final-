@@ -35,5 +35,7 @@ Na integração complexa, APIs robustas e middleware desempenham papel essencial
 # Referências Bibliográficas  
 
 ●	O que é a computação em nuvem? https://cloud.google.com/learn/what-is-cloud-computing?hl=pt-br
+
 ●	Erl, T.; Puttini, R.; Zaigham, M. Cloud computing: Concepts, technology, & architecture. Pearson Education, Boston, MA, 2013.
-●	
+
+●
